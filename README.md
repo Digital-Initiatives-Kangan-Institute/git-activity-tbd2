@@ -7,7 +7,7 @@ You are a software developer hired by KangaCafe to update their website. KangaCa
 You must use `VSCode` with the `LivePreview` extension to view your changes to the website.
 
 ## 📄 Instructions
-Using what you have learned about Git, complete the following actions:
+Using what you have learned about Git and GitHub, complete the following actions:
 1. Fork this repository
 2. Clone your copy of the repository
 3. Create a new branch
