@@ -1,5 +1,5 @@
 ## 🎯 Scope
-In this repository you will practice forking, cloning, branching, staging, committing, pushing and pull requests.
+In this activity you will practice forking, cloning, branching, staging, committing, pushing and pull requests.
 
 ## 💡 Case Study
 You are a software developer hired by KangaCafe to update their website. KangaCafe has expressed that they do not like the orange color scheme and has asked you to try different color schemes to see what fits.
