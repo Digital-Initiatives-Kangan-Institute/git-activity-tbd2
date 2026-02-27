@@ -17,3 +17,6 @@ Using what you have learned about Git, complete the following actions:
 12. Change the `--color-scheme-primary` from `purple` to `limegreen`
 13. Change the `--color-scheme-secondary` from `darkorchid` to `lime`
 14. Stage, commit, and push your changes to GitHub
+15. Change the `primary` and `secondary` color to the best fitting color scheme
+16. Stage, commit, and push your changes to GitHub
+17. Open a pull request merging the changes from your new branch into the master branch
