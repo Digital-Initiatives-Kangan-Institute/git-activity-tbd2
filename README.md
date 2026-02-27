@@ -1,7 +1,7 @@
-## Case Study
+## 💡 Case Study
 You are a software developer hired by KangaCafe to update their website. KangaCafe has expressed that they do not like the orange color scheme and has asked you to change it to another color.
 
-## Instructions
+## 📄 Instructions
 Using what you have learned about Git, complete the following actions:
 1. Fork this repository
 2. Clone your copy of the repository
