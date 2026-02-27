@@ -1,5 +1,5 @@
 ## 💡 Case Study
-You are a software developer hired by KangaCafe to update their website. KangaCafe has expressed that they do not like the orange color scheme and has asked you to different color schemes to see what fits.
+You are a software developer hired by KangaCafe to update their website. KangaCafe has expressed that they do not like the orange color scheme and has asked you to try different color schemes to see what fits.
 
 You must use `VSCode` with the `LivePreview` extension to view your changes to the website.
 
